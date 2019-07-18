@@ -1,0 +1,23 @@
+Doing create-react-app ______
+creates a folder ______ in the current directory.
+
+starting is done through npm start;
+
+div ID Root was created and values inputted
+
+
+helloreact first imports react to be able to use the library
+a function was created that returns a p tag with hello world
+export exports the function for use outside of the module
+
+App is an application that gathers data from components and creates and application
+App is then exported and is used in the index to be rendered.
+App has to be capitalized.
+
+Index is what is actually rendered; putting app as a separate file hides and only displays the return values of the application in the index.
+React is imported to use JSX
+
+Similar to handlebar, only values in the public can be displayed/shared
+%PUBLIC_URL%
+
+ReactDOM.render also renders data from the app.js into the index; what is returned is what is displayed there.
